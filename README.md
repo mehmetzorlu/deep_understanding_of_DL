@@ -1,0 +1,1 @@
+Code practices for [Deep Understanding  of Deep Learning by Mike X Cohen](https://www.udemy.com/course/deeplearning_x/)
